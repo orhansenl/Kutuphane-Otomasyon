@@ -1,1 +1,9 @@
-# Nitelikli Bilişim Uzmanı Yetiştirme Programı dahilinde C# ,temel seviyede Entity Framework ve MsSql kullanılarak basit bir kütüphane otomasyon programıdır.
+# Kütüphane Otomasyon Programı
+
+Kütüphane düzeni için kitapların ödünç verme/alma durumlarını göstermek için yapılan örnek basit bir program.
+
+## Kullanılan Diller ve Araçlar
+
+- C#
+- Entity Framework
+- SQL
